@@ -1,0 +1,10 @@
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\Shared\bin\Debug\Shared.exe.config
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\Shared\bin\Debug\Shared.exe
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\Shared\bin\Debug\Shared.pdb
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\Shared\obj\Debug\Shared.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\Shared\obj\Debug\Shared.Form1.resources
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\Shared\obj\Debug\Shared.Properties.Resources.resources
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\Shared\obj\Debug\Shared.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\Shared\obj\Debug\Shared.exe
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\Shared\obj\Debug\Shared.pdb
