@@ -1,0 +1,17 @@
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\bin\Debug\BloodDonation.exe.config
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\bin\Debug\BloodDonation.exe
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\bin\Debug\BloodDonation.pdb
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\obj\Debug\BloodDonation.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\obj\Debug\BloodDonation.Properties.Resources.resources
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\obj\Debug\BloodDonation.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\obj\Debug\BloodDonation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\obj\Debug\BloodDonation.exe
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\obj\Debug\BloodDonation.pdb
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\obj\Debug\BloodDonation.LoginForm.resources
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\bin\Debug\Adminpanel.exe
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\bin\Debug\UserPanel.exe
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\bin\Debug\Adminpanel.pdb
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\bin\Debug\Adminpanel.exe.config
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\bin\Debug\UserPanel.pdb
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\bin\Debug\UserPanel.exe.config
+C:\Users\Admin\Downloads\Library\Library\Library\BloodDonation\BloodDonation\obj\Debug\BloodDon.870F13C8.Up2Date
