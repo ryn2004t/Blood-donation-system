@@ -37,3 +37,8 @@ healthcare
 crud
 dotnet
 typed-dataset
+
+
+## Important Note :
+you should install MySQL server and restore the blooddonation.bak file inside it
+and while downloading the zipped file you should open it in visual studio
